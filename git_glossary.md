@@ -33,6 +33,6 @@ Pull
 
 Merge
 
-Pull Request
+Pull Request "Proposal to merge a set of changes from one branch into another. In a pull request, collaborators can review and discuss the proposed set of changes before they integrate the changes into the main codebase. They also display the differences between the content in the source branch and the content in the target branch." - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests "
 
 ### Questions
