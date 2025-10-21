@@ -9,7 +9,7 @@ Git - "is a distributed version control system, which means that a local clone i
 
 GitHub
 
-GitHub Desktop
+GitHub Desktop – "a free, open source application that helps you to work with code hosted on GitHub or other Git hosting services" https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
 
 ### Git terms
 
