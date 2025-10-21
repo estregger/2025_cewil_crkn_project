@@ -36,3 +36,5 @@ Merge
 Pull Request
 
 ### Questions
+
+Is there a way to link zotero to github if you are doing work that includes extensive references and zotero is the interface you are most comfortable using?
