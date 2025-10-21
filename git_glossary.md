@@ -27,7 +27,7 @@ Branch
 
 Commit
 
-Push
+Push : a command that uploads local repository commits to a remote repository, making your changes accessible to others or serving as a backup. 
 
 Pull
 
