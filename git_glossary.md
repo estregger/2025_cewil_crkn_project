@@ -21,7 +21,7 @@ Remote
 
 Clone "A "clone" is a full copy of a Git repository that lives on your computer (or a codespace) instead of on GitHub. Cloning copies all files, commit history, and branches from the remote so you can edit locally and push or pull changes."--copilot summary from git hub docs.
 
-Fork
+Fork "a copy of an existing repository under your own personal account"
 
 Branch
 
