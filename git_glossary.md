@@ -7,7 +7,7 @@
 
 Git - "is a distributed version control system, which means that a local clone is a complete version control repository" learn.microsoft.com/en-us/devops/develop/git/what-is-git
 
-GitHub
+GitHub - GitHub is a platform where you can store, manage, and share code. It allows you to collaborate with other and to review eachothers code and make suggestions. You can track your code, and any changes that may have been made. - https://docs.github.com/en/get-started/start-your-journey/about-github-and-git 
 
 GitHub Desktop
 
