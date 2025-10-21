@@ -25,7 +25,8 @@ Fork
 
 Branch
 
-Commit
+Commit: "A "commit" records changes to one or more files in your branch", "similar to saving a file that's been editted." Each commit is given a "unique ID, called an SHA or hash." This is used to identify the "specific changes, when they were made, and who made the changes." 
+https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop
 
 Push
 
