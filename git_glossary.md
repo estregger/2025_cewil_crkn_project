@@ -15,7 +15,7 @@ GitHub Desktop
 
 Repository- A storage location for data or material. It is a centralized digital location for storing projext files and other documentation
 
-Local
+Local- Local refers to a local repository on your computer that is tracked by Git. Local repositories allow you to manage code independently therefore making it easier to collaborate with others on remote repositories like ones on GitHub.--copilot summary based on GitHub Docs
 
 Remote
 
